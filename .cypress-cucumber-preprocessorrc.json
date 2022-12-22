@@ -1,0 +1,5 @@
+{
+    "stepDefinition": [
+        "cypress/e2e/*.js"
+    ]
+}
